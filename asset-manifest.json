@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BlackGtaRp/static/css/main.981f7211.chunk.css",
+    "main.js": "/BlackGtaRp/static/js/main.9aa61977.chunk.js",
+    "main.js.map": "/BlackGtaRp/static/js/main.9aa61977.chunk.js.map",
+    "runtime-main.js": "/BlackGtaRp/static/js/runtime-main.fdb64717.js",
+    "runtime-main.js.map": "/BlackGtaRp/static/js/runtime-main.fdb64717.js.map",
+    "static/css/2.86df01db.chunk.css": "/BlackGtaRp/static/css/2.86df01db.chunk.css",
+    "static/js/2.9a45488f.chunk.js": "/BlackGtaRp/static/js/2.9a45488f.chunk.js",
+    "static/js/2.9a45488f.chunk.js.map": "/BlackGtaRp/static/js/2.9a45488f.chunk.js.map",
+    "index.html": "/BlackGtaRp/index.html",
+    "precache-manifest.fabd5518c0e31c69076adad9c5d535f2.js": "/BlackGtaRp/precache-manifest.fabd5518c0e31c69076adad9c5d535f2.js",
+    "service-worker.js": "/BlackGtaRp/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/BlackGtaRp/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/BlackGtaRp/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.9a45488f.chunk.js.LICENSE.txt": "/BlackGtaRp/static/js/2.9a45488f.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/BlackGtaRp/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdb64717.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.9a45488f.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.9aa61977.chunk.js"
+  ]
+}
